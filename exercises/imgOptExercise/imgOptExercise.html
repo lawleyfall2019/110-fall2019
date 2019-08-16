@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Libre+Franklin:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-TXfwrfuHVznxCssTxWoPZjhcss/hp38gEOH8UPZG/JcXonvBQ6SlsIF49wUzsGno" crossorigin="anonymous">
+    <link rel="stylesheet" href="../../main.css">
+    <title>IGME 110 Image Optimization Exercise - Lawley Fall 2019</title>
+
+</head>
+
+<body>
+    <div id="wrapper">
+        <header>
+            <div id="prof">
+                <img alt="Photo of Professor Lawley" src="../../lawley-gls.jpg" onclick="document.location.href='http://lawley.rit.edu';" />
+                <p id="name">Professor <br class="mobile-break"> Lawley</p>
+            </div>
+            <div id="title">
+                <h1>Introduction to &amp; <br class="mobile-break">Interactive Media</h1>
+                <h2>IGME-110 / Fall 2019</h2>
+            </div>
+            <div id="menu">
+                <span><a href="../../index.html">Syllabus</a> </span>/
+                <span><a href="../../schedule.html">Schedule</a></span> /
+                <span><a href="https://mycourses.rit.edu/d2l/home/765151">myCourses</a></span> /
+                <span><a href="https://lawley110fall2019.slack.com/">Slack</a></span>
+            </div>
+
+        </header>
+
+        <nav id="summary">
+
+            <h3>Deliverables</h3>
+            <p>Completed files should be uploaded to the myCourses Dropbox no later than the start of class on Tuesday, 11/6.</p>
+
+            <h3><a href="../../schedule.html#week10">Back to Week 10</a></h3>
+
+
+        </nav>
+
+        <main>
+            <h2 class="page-title">Image Basics: Color, Compression, and File Optimization <span class="weekinfo">(Week 10, Tuesday, October 30)</span></h2>
+            <div class="page-desc">
+                <p>For today’s exercise, you’ll be using Photoshop to experiment with the effects of different color models and compression methods on image files.</p>
+                
+                <p>Before you begin, you'll need to download and extract the image files in <a href="imageOpt.zip">imageOpt.zip</a>.</p>
+            </div>
+
+
+            <div class="subhead" >
+                <h2>Part 1: Color Models</h2>
+                <i class="fas fa-angle-left" aria-label="expand/collapse arrow"></i>
+            </div>
+
+            <div class="panel">
+                <ol>
+                    <li>From the archive you just downloaded, open the file Sunflower150.jpg in Photoshop.</li>
+                    <li>Display the Channels Window (Window &gt; Channels)</li>
+                    <li>View the Image &gt; Mode menu. The current color mode of the image (RGB, PhotoShop’s default) has a check mark next to it in the mode menu. What menu items are grayed out? (Make a note of this.)</li>
+                    <li>Switch the mode to CMYK. (If you get a warning, click Yes to proceed.) Note the changes in the Channels window. </li>
+                    <li>View the Mode menu again. How have the options changed?</li>
+                    <li>Switch the mode to Grayscale (if prompted, agree to discarding color changes). What happens to the Channels window now? Look at the mode menu: what’s different?</li>
+                    <li>You now have access to the Bitmap option in the Mode menu. This refers to the strictest definition of a bitmap, or a 1-bit color image, where each pixel in the image is mapped to one bit of information; on or off, white or black.</li>
+                    <li>Change the mode to Bitmap. Set the output resolution to 96ppi and the diffusion method to Diffusion Dither. Try zooming in, so you can see the individual pixels.</li>
+                    <li>After viewing the results, select History from the Window menu. You will see a list of your modifications to the image. Return to the original ("Open") version.  The changes you made are all still listed, and you can go back to any of them.</li>
+                    <li>In the bottom left corner of the window, next to the zoom percentage, you should see "Doc:2.41M/2.41M". The number on the left represents the printing size of the image--approximately the size of the saved, flattened file in Adobe Photoshop format. The number on the right indicates the file’s approximate size including layers and channels.</li>
+                    <li>Step forward through the history to look at the CMYK and then the Grayscale versions; how does the document size change for each of these?</li>
+                    <li>Close this file. (You don’t need to save any changes.) We’re done with it.</li>
+                </ol>
+            </div>
+
+            <div class="subhead" >
+                <h2>Part 2: Color Depth and Palettes</h2>
+                <i class="fas fa-angle-left" aria-label="expand/collapse arrow"></i>
+            </div>
+
+            <div class="panel">
+                <p>In the previous section we changed color modes, which indirectly changed the color palettes available (as you should remember from lecture, CMYK and RGB have overlapping but different palettes of colors, while grayscale and bitmap use only variations on black and white).</p>
+
+                <p>In this part of the exercise, you’ll be working more directly with palettes, particularly in Indexed Color mode, which restricts you to 256 or fewer colors in the palette (unlike RGB and CMYK, which have millions of available colors in their palettes).</p>
+            
+                <ol>
+                    <li>Open the image cartoon.psd.</li>
+                    <li>Zoom in to at least 400%, and make sure you can see the blade of the axe.</li>
+                    <li>From the Image &gt; Mode menu, select Indexed Color.</li>
+                    <li>In the dialog box, try the following, noting the changes in the image (in particular, observe any changes to the gradients in the hammer):
+                        <ul>
+                            <li>Change the Dither from Diffusion to Pattern to None.</li>
+                            <li>Change Color Depth to 32 colors. What happens to the axe blade?</li>
+                            <li>Change the Dither back to Diffusion. What happens now? (Try zooming in so you can see the pixels more clearly.)</li>
+                            <li>Change the palette to the Web Palette rather than Local. How many colors is it using now? Did that improve or reduce the quality of the image?</li>
+                            <li>Try the Mac and Windows OS palettes, and observe the number of colors and impact on quality.</li>
+                        </ul>
+                    </li>
+            
+                    <li>Return to the Web palette, and experiment with the diffusion settings to get the best version of the image you can.</li>
+                    <li>Save the indexed color as a GIF called webcartoon.gif (the GIF format is called Compuserve GIF in the Save As menu, because of a patent on the format).</li>
+                </ol>
+                <p>Close the original webcartoon.psd file.</p>
+            
+            </div>
+    
+    
+
+            <div class="subhead" >
+                <h2>Part 3: Compression and File Types</h2>
+                <i class="fas fa-angle-left" aria-label="expand/collapse arrow"></i>
+            </div>
+
+            <div class="panel">
+                <p>The three file types you'll be working with the most in interactive media are GIF, JPEG and PNG. This was covered in the readings for this week, but you can also read through the <a href="https://en.wikipedia.org/wiki/Image_file_formats">“Image File Formats” Wikipedia article</a> for a review of how they differ.</p>
+                
+            
+            
+                <ol>
+                    <li>Open the bijela_kava.jpg file. (This is an unmodified photo taken with a Moto G5 phone.</li>
+                    <li>Select File-&gt;Export-&gt;Save for Web (Legacy), and choose “4-Up” on the tab at the top.</li>
+                    <li>Change the zoom level to 200%, and drag any of the images so that you can see the side of the cup (dragging one will affect all of them). Your screen should look something like this:<br>
+                    <img src="bijela1.png" alt="photoshop zoom example" class="screenshot"></li>
+                    <li>If the image in the top left corner isn't set to "Original", select it and choose "Original" from the presets menu in the top right corner of the panel.</li>
+                    <li>For the other three versions of the image, experiment with GIF, JPEG, and PNG settings. Pay particular attention to the effect each setting has on the side of the coffee cup. Also trying zooming out to see the effect on the color quality of the image as a whole. Which version gives you the best approximation of the original image? Save that one as bijela-quality (using whatever the appropriate file extension is).</li>
+                    <li>In the Windows file explorer, check the size of the file that you just created. Is it larger or smaller than the original JPG file?</li>
+                    <li>In the bottom right corner of the panel, change the image size to 50%. Try to find the option that gives you the best tradeoff between size and quality. Save that as bijela-optimized (using the appropriate file extension).</li>
+                </ol>
+            <p>Close the original bijela-kava.jpg file.</p>
+            
+            </div>
+
+            <div class="subhead">
+                <h2>Part 4: GIF Compression</h2>
+                <i class="fas fa-angle-left" aria-label="expand/collapse arrow"></i>
+            </div>
+
+            <div>
+                <p>To better understand how GIF compression works, we're going to work with the file Stripes.psd. Open that now.</p>
+
+                <ol>
+                    <li>Change the Mode to Indexed Color, and use the default settings that are offered.</li>
+                    <li>From the Image &gt; Mode menu, select "Color Table..." to see the colors being used in the image.</li>
+                    <li>Use File &gt; Save As... and save the file as stripes1.gif. (If prompted, choose Normal rather than Interlaced.)</li>
+                    <li>Choose Image &gt; Image Rotation &gt; 90° CW. You should have horizontal rather than vertical stripes now. Save it as a GIF called stripes2.gif.</li>
+                </ol>
+                
+                <p><strong><em>Without looking at the files on your computer</em></strong>, can you predict which file (stripes1 or stripes2) is larger, based on our discussions about run length encoding and lossless compression in the lecture? Check to see if you were right!</p>
+                
+            </div>
+
+            <div class="subhead" id="deliverables">
+                <h2>Deliverables</h2>
+                <i class="fas fa-angle-left" aria-label="expand/collapse arrow"></i>
+            </div>
+            <div class="panel">
+                <p>Upload your webcartoon.gif, bijela-quality, bijela-optimized, stripes1.gif and stripes2.gif files to the Dropbox in myCourses. This should be completed before the beginning of class on Tuesday, 11/6.</p>
+            </div>
+
+        </main>
+
+        <footer>
+            <a href="http://rit.edu"><img src="../../ritlogo.gif" alt=" RIT Logo"></a>
+            <span>
+                <a id="cc" rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/" title="Creative Commons Attribution-ShareAlike License"><i class="fab fa-creative-commons" aria-label="Creative Commons"></i><i class="fab fa-creative-commons-by" aria-label="CC BY"></i><i class="fab fa-creative-commons-sa" aria-label="CC SA"></i></a> &bull; <a href="http://lawley.rit.edu/">Liz Lawley</a></span>
+            <a href="http://igm.rit.edu/"><img src="../../igmlogo.png" alt="School of IGM Logo"></a>
+        </footer>
+    </div>
+
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="../../expand.js"></script>
+</body>
+
+</html>
