@@ -30,7 +30,7 @@ Using either a web browser or the Slack client (on the lab PC or on your own dev
 
 ![Slack Share GDoc Screenshot](slackGDrive.png)
 
-3. Configure your Slack notifications. You can change the overall settings for the Slack, and then you can override the global settings on a channel-by-channel basis. What I generally do is turn on all notifications for the class, and then mute individual channels, like #introductions and #music-suggestions. You're welcome to set it up in whatever way works best for you. (However, since the #announcements channel is used only by the professor and TA for class-wide announcements, it's a bad idea to mute or leave that channel!)
+3. Configure your Slack notifications. You can change the overall settings for the Slack, and then you can override the global settings on a channel-by-channel basis. What I generally do is turn on all notifications for the class, and then mute individual channels, like #music, that I don't need immediate updates from. You're welcome to set it up in whatever way works best for you. (However, since the #announcements channel is used only by the professor and TA for class-wide announcements, it's a bad idea to mute or leave that channel!)
 
 ## Deliverables
 
