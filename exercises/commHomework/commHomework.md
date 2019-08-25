@@ -1,4 +1,4 @@
-|  IGME-220: Game Design & Development I, Spring 2018 | [Syllabus](README.md) | [Schedule](Schedule.md) |
+|  Introduction to Interactive Media (IGME-110), Fall 2019 | [Syllabus](http://lawleyfall2019.github.io/index.html) | [Schedule](http://lawleyfall2019.github.io/schedule.html) |
 |----|----|----|
 
 # Communication Tools Homework
