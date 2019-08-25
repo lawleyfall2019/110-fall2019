@@ -2,6 +2,7 @@
 |----|----|----|
 
 #Communication Tools Homework
+
 ###Week 1, Tuesday 8/27
 
 In this exercise, you'll set up your Slack account and send your username to the professor and the TA so that we can add you to a private channel for your notetaking group. You'll also add a photo to your Slack profile. All tasks should be completed no later than 5pm on Wednesday, 8/28, so that we can add you to the correct private channel in Slack.
