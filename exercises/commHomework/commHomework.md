@@ -20,5 +20,5 @@ These tasks should be completed by 10am on Thursday, 8/29, so that we can add yo
 
 * Account set up on Slack with your full name
 * Message posted to #introductions channel
-* Email sent to professor and TA with "Your Name, 110 Fall 2018" as subject"
+* Email sent to professor and TA with "Your Name, 110 Fall 2019" as subject"
 
