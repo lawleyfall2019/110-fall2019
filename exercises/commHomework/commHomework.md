@@ -16,7 +16,7 @@ Use your RIT email account (not a personal acccount!) to send a message to your 
 
 ## Deliverables
 
-These tasks should be completed by 10am on Thursday, 8/29, so that we can add you to your group's channel in Slack before class.
+These tasks should be completed by 8am on Thursday, 8/29, so that we can add you to your group's channel in Slack before class.
 
 * Account set up on Slack with your full name
 * Message posted to #introductions channel
