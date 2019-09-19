@@ -3,7 +3,7 @@
 
 ## Part 1: Color Models
 
-For today's exercise, you’ll be using Photoshop files that are contained in [exampleImages.zip](exampleImages.zip). (Right-click on the link and choose "Save Link As...".) 
+For today's exercise, you’ll be using Photoshop files that are contained in [exampleImages.zip](exampleImages.zip). (After clicking on the link, choose the "download" link in the top right corner of the page.)
 
 1. Open the file Sunflower150.jpg in Photoshop.
 2. Display the Channels Window (Window > Channels)
