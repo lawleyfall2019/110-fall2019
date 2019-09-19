@@ -1,11 +1,11 @@
-## Image Basics: Color, Compression, and File Optimization
+# Image Basics: Color, Compression, and File Optimization
 
 
-### Part 1: Color Models
+## Part 1: Color Models
 
-For today's exercise, you’ll be using Photoshop files that are contained in [exampleImages.zip](exampleImages.zip).
+For today's exercise, you’ll be using Photoshop files that are contained in [exampleImages.zip](exampleImages.zip). (Right-click on the link and choose "Save Link As...".) 
 
-1. From the archive you just downloaded, open the file Sunflower150.jpg in Photoshop.
+1. Open the file Sunflower150.jpg in Photoshop.
 2. Display the Channels Window (Window > Channels)
 3. View the Image > Mode menu. The current color mode of the image (RGB, PhotoShop’s default) has a check mark next to it in the mode menu. What menu items are grayed out? (Make a note of this.)
 4. Switch the mode to CMYK. (If you get a warning, click Yes to proceed.) Note the changes in the Channels window.
