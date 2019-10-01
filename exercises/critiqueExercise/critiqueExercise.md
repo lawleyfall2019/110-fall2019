@@ -5,7 +5,7 @@
 
 # Critique Exercise 1 (Week 6)
 
-This week you'll be practicing critique skills. Remember that critique is best when it uses non-judgmental questions--"What was your goal for this work?" "What do you want people to notice first?"
+This week you'll be practicing critique skills. Remember that critique is best when it is constructive; use non-judgmental questions--"What was your goal for this work?" "What do you want people to notice first?", acknowledge positive aspects of the work, and provide concrete suggestions for improvement. 
 
 You'll be doing this exercise in your note-taking groups, critiquing each person's magazine cover as a group.  
 
