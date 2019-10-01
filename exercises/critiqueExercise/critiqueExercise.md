@@ -14,9 +14,9 @@ You'll be doing this exercise in your note-taking groups, critiquing each person
 1. Upload your own magazine cover to your group's Google Drive folder. (I suggest creating a folder for this purpose.) Make sure your name is in the file name.
 1. Take ten minutes to individually review all of your group's covers, taking your own notes on what you think is particularly good, unclear, and/or needs improvement. Make sure you write your thoughts down, since you'll need to turn these notes in. 
 1. As a group, critique each of the covers. 
-  - Have the creator start with brief explanation of their goals and decision-making process for the cover, as well as any specific aspects of the work they're unhappy with or would like feedback on.
-  - Each member of the group should offer at least one positive comment about the revised version, and at least one suggestion for improvement. (You may also ask neutral questions about the work.) 
-  - The creator should avoid explaining or defending their design decisions; instead, focus on listening and understanding what people tell you. Ask clarifying questions if you want (e.g. "When you say you think it's too dark, what exactly do you mean?"), and take lots of notes. 
+   - Have the creator start with brief explanation of their goals and decision-making process for the cover, as well as any specific aspects of the work they're unhappy with or would like feedback on.
+   - Each member of the group should offer at least one positive comment about the revised version, and at least one suggestion for improvement. (You may also ask neutral questions about the work.) 
+   - The creator should avoid explaining or defending their design decisions; instead, focus on listening and understanding what people tell you. Ask clarifying questions if you want (e.g. "When you say you think it's too dark, what exactly do you mean?"), and take lots of notes. 
 
 
 ## Deliverables
