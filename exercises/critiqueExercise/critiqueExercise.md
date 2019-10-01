@@ -12,9 +12,10 @@ You'll be doing this exercise in your note-taking groups, critiquing each person
 ## Process
 
 1. Upload your own magazine cover to your group's Google Drive folder. (I suggest creating a folder for this purpose.) Make sure your name is in the file name.
-1. Have each person give the group a brief explanation of their goals and decision-making process for the cover, as well as any specific aspects of the work they're unhappy with or would like feedback on. (Take notes; you'll need them for your write-up.)
-1. Take no more than ten minutes to individually review all of your group's covers, taking your own notes on what you think is particularly good, unclear, and/or needs improvement.  
-1. Divide the remaining minutes in the class by the number of group members present; that's how long you have to critique each project. Each member of the group should offer at least one positive comment about the revised version, and at least one suggestion for improvement. (You may also ask neutral questions about the work.) Everyone--including the creator--should take notes during this process. 
+1. Have each person give the group a brief explanation of their goals and decision-making process for the cover, as well as any specific aspects of the work they're unhappy with or would like feedback on. Do *not* start the critique process yet--just take notes on wha the creator tells you about the work. 
+1. On your own, take no more than ten minutes to individually review all of your group's covers, taking your own notes on what you think is particularly good, unclear, and/or needs improvement.  
+1. As a group, critique the covers. Each member of the group should offer at least one positive comment about the revised version, and at least one suggestion for improvement. (You may also ask neutral questions about the work.) Everyone--including the creator--should take notes during this process. 
+1. The creator should avoid explaining or defending their design decisions; instead, focus on listening and understanding what people tell you. Ask clarifying questions if you want (e.g. "When you say you think it's too dark, what exactly do you mean?"), and take lots of notes. 
 
 
 ## Deliverables
