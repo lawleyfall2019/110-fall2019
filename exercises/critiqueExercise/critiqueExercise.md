@@ -19,6 +19,6 @@ You'll be doing this exercise in your note-taking groups, critiquing each person
 
 ## Deliverables
 
-* Write up your critique notes for each of the covers your group reviewed, and submit the document to the assignments dropbox in myCourses no later than noon on Wednesday.  
+* Write up your critique notes for each of the covers your group reviewed, and submit the first version of your cover and your notes document to the Critique 1 assignment dropbox in myCourses no later than noon on Wednesday.  
 
 * Using the feedback from your group, create a revised version of your magazine cover. Upload it to your group's folder before the start of class on Thursday, using the same file name with v2 added to the end. 

@@ -30,4 +30,4 @@ Whatever magazine you pick, your magazine cover should look convincingly like th
 ## Deliverables
 You need to provide two files--the finished magazine cover image, and a brief (2-3 paragraph) description of the sources, tools, and methods you used to create it. 
 
-The files should be uploaded to the `Compositing Exercise` dropbox in myCourses by **8am on Tuesday, 10/1**. 
+The files should be uploaded to the `Compositing Exercise` dropbox in myCourses by **3pm on Tuesday, 10/1**. 

@@ -25,6 +25,6 @@ For each cover:
   - An explanation of how the critique process shaped your revisions.   
   - Your critique notes for each of the covers your group reviewed
   
-* Submit all three versions of your cover (the initial version, v2, and the final version), and your process document, to the assignments dropbox in myCourses no later than noon on Monday of next week.  
+* Submit all three versions of your cover (the initial version, v2, and the final version), and your process document, to the Critique 2 assignments dropbox in myCourses no later than noon on Monday of next week.  
 
 
