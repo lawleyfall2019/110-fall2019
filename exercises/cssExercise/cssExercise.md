@@ -2,7 +2,7 @@
 |----|----|----|
 
 
-# CSS Exercise (Week 7, Thursday 9/12)
+# CSS Exercise (Week 7, Thursday 10/10)
 
 Today's exercise is to create a personal webpage using what you've learned about HTML and CSS thus far.  
 
