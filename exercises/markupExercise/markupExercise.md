@@ -4,11 +4,13 @@
 
 # Basic HTML Markup Exercise (Week 7, Tuesday 10/8)
 
-In today's exercise, you'll complete the [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) module on the Mozilla Developers Network (MDN) site. 
+In today's exercise, you'll complete all of the  guides from the [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) module on the Mozilla Developers Network (MDN) site, and then complete the first assessment (the letter markup) at the end of the section. 
 
-## Instructions
-Complete the two assessments at the end of the Intro to HTML guide--download the zip files, and use VS Code to edit them. 
+I recommend *skimming* these guides so that you get a general idea of the content being covered in each, and then referring back to them for detail as you work on the assessment. 
+
+Right-click on [this link](https://raw.githubusercontent.com/lawleyfall2019/110-fall2019/master/exercises/markupExercise/letter-text.html) to download the HTML file you'll need to mark up for the assessment. 
+
 
 ## Deliverables
 
-Upload your completed HTML documents to the myCourses Assignments dropbox by 3pm on Thursday. 
+Upload your completed HTML document to the myCourses Assignments dropbox by 3pm on Thursday. 
