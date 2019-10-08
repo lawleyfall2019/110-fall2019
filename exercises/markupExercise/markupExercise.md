@@ -4,13 +4,11 @@
 
 # Basic HTML Markup Exercise (Week 7, Tuesday 9/10)
 
-In today's exercise, you'll complete the Introduction to HTML  on the Mozilla Developers Network (MDN) site, complete the two assessments, and upload the resulting files to myCourses. 
+In today's exercise, you'll complete the Introduction to HTML on the Mozilla Developers Network (MDN) site. 
 
 ## Instructions
-
-Complete the [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML) guides on the MDN website, along with the two associated assessments. You can use either Codepen.io, or a desktop editor like VS Code. 
-
+Complete the two assessments at the end of the Intro to HTML guide, using either VS Code or [Codepen.io](https://codepen.io/). 
 
 ## Deliverables
 
-Upload your completed HTML documents (just the .html pages you edited, not the accompanying files) to the myCourses Assignments dropbox by 3pm on Thursday. If you used Codepen.io, you can either export the files and submit the files from the resulting "src" subfolder, or you can provide the URL for the pen. 
+Upload your completed HTML documents (just the .html pages you edited, not the accompanying files) to the myCourses Assignments dropbox by 3pm on Thursday. If you used Codepen.io, you can (a) copy and paste the HTML into an editor and save the resulting files, (b) export the pens and submit the HTML files in the src folders, or (c) provide the URLs to the pen. 
