@@ -8,7 +8,7 @@ Today's exercise is to create a personal webpage using what you've learned about
 
 ## Instructions
 
-Using either Codepen.io or a desktop editor, create a personal webpage for yourself that includes a photograph, at least two paragraphs of text, and a link to an external website. You should use at least one (but no more than two) Google Fonts, as demonstrated in lecture. (Reminder: from the Google Fonts page, click the red plus sign next to a font name to select it. Then click on the "family/families selected" bar at the bottom of the screen. Add the "link" code to the head of your HTML document; you can then use the font family name in your CSS. 
+Using either [Codepen.io](https://codepen.io) or a desktop editor, create a personal webpage for yourself that includes a photograph, at least two paragraphs of text, and a link to an external website. You should use at least one (but no more than two) [Google Fonts](https://fonts.google.com/), as demonstrated in lecture. (Reminder: from the Google Fonts page, click the red plus sign next to a font name to select it. Then click on the "family/families selected" bar at the bottom of the screen. Add the "link" code to the head of your HTML document; you can then use the font family name in your CSS. 
 
 Try to use the principles of design that we've discussed this semester! You may also find these guides helpful as resources/references: 
 
