@@ -2,7 +2,7 @@
 |----|----|----|
 
 
-# Basic HTML Markup Exercise (Week 7, Tuesday 9/10)
+# Basic HTML Markup Exercise (Week 7, Tuesday 10/8)
 
 In today's exercise, you'll complete the Introduction to HTML on the Mozilla Developers Network (MDN) site. 
 
