@@ -12,7 +12,7 @@ Create a personal webpage for yourself that includes a photograph, at least two 
 
 You can include your CSS rules as either a linked CSS file (better), or in a style tag in the head of your HTML file. 
 
-Try to applt the principles of design that we've discussed this semester! 
+Try to apply the principles of design that we've discussed this semester! 
  
 ## Deliverables
 
