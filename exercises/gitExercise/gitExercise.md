@@ -1,8 +1,8 @@
-|  Introduction to Interactive Media (IGME-110), Fall 2019 | [Syllabus](https://lawleyfall2019.github.io/110-fall2019/) | [Schedule](https://lawleyfall2019.github.io/110-fall2019/schedule.html#week10) |
+<a name="start"></a>|  Introduction to Interactive Media (IGME-110), Fall 2019 | [Syllabus](https://lawleyfall2019.github.io/110-fall2019/) | [Schedule](https://lawleyfall2019.github.io/110-fall2019/schedule.html#week10) |
 |----|----|----|
 
 
-# Git Basics Exercise (Week 10, Tuesday 10/29)
+# Git Basics Exercise (Week 10, Tuesday 10/29) 
 
 In today's exercise you'll create a GitHub account, add a new repository, clone it to your computer using Visual Studio Code, and get some practice with creating, editing, staging, committing, and syncing files. 
 
@@ -12,7 +12,7 @@ If you don't already have a GitHub account, go to https://github.com to create a
 
 Once your account has been created and validated, you'll be asked if you want to create a new repository. Create one called 110exercise. Make it public, and initialize it with a README. 
 
-![Screenshot of new repo page](newrepo.png) 
+![Screenshot of new repo page](newRepo.png) 
 
 You'll be taken to the main page of your new repository. Leave it open in the browser while you complete the next steps. 
 
