@@ -1,6 +1,7 @@
-# GitHub Pages Exercise (Week 10, Thursday)
+|<a name="start"></a>Introduction to Interactive Media (IGME-110), Fall 2019 | [Syllabus](https://lawleyfall2019.github.io/110-fall2019/) | [Schedule](https://lawleyfall2019.github.io/110-fall2019/schedule.html#week10) |
+|----|----|----|# GitHub Pages Exercise (Week 10, Thursday)
 
-As discussed in lecture, GitHub provides the ability to publish a basic website from a repository. In this exercise, you’ll learn how to create a website associated with your GitHub username, as well as how to create one associated with a specific project/repository.</p>
+As discussed in the readings, and in lecture, GitHub provides the ability to publish a basic website from a repository. In this exercise, you’ll learn how to create a website associated with your GitHub username, as well as how to create one associated with a specific project/repository.</p>
 
 ***Do NOT start this exercise until you have successfully completed the exercise from Tuesday***
 
