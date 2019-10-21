@@ -81,9 +81,12 @@ Click on the commit message, and you'll be shown the changes that were made in t
 
 In VS Code, create a new file in the repository directory. It can be an HTML file, a Markdown (.md) file, or a text (.txt) file. Add whatever content you'd like, and then save it. 
 
-In the Git sidebar, the new file will appear with a U next to its name (for "untracked", because it hasn't yet been committed to the repository). Stage, commit, and sync this file, too.  Reload your repository in the browser to make sure the file is visible. 
+In the Git sidebar, the new file will appear with a U next to its name (for "untracked", because it hasn't yet been committed to the repository). Stage, commit, and sync this file, too.  Reload your repository in the browser to make sure the file is visible.
 
 ## Part 6: Deliverable
 Go to https://links.lawley.net/githubinfo and enter your name, your RIT user ID, your GitHub username, and the URL to the repository you just created. This should be submitted before the start of class on Thursday. 
+
+## Note: You Can Clone to Multiple Machines!
+Once you have the repository set up on GitHub, you can create clones of it on as many computers as you'd like. I usually clone the repositories I'm actively working on to my Mac, my Windows computer, and my iPad. Changes I make on one can then be retrieved from GitHub on the other devices. If you do that, it's a good idea to always start your editing session by syncing with GitHub, so you get all the changes that have been made. (And make sure to commit and sync your changes with GitHub at the end of every editing session!)
 
 
