@@ -47,7 +47,7 @@ Type in `git:clone`. You should see that command appear below the entry box; sel
 
 VS Code will prompt you for a location for your files. Once you've selected a location, VS Code will create a directory for the repository files using the name of the repository, and will retrieve copies of any files in the repository (which right now should just be the README.md file). When it's done, it will ask if you want to open the new repository (either in the current window, or in a new window). 
 
-Here's a video showing the cloning process: (GitCloneVSC.mp4) 
+Here's a video showing the cloning process: https://youtu.be/hNMkIF0klow 
 
 ## Part 4: Editing Files in Your Repository
 
