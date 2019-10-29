@@ -12,7 +12,7 @@ If you don't already have a GitHub account, go to https://github.com to create a
 
 Once your account has been created and validated, you'll be asked if you want to create a new repository. Create one called 110exercise. Make it public, and initialize it with a README. 
 
-![Screenshot of new repo page](newRepo.png) 
+![Screenshot of new repo page](vsNewRepo.png) 
 
 You'll be taken to the main page of your new repository. Leave it open in the browser while you complete the next steps. 
 
@@ -39,17 +39,17 @@ Close the GitBash program.
 
 In the top right corner of your repository page, there's a green button that says "Clone or Download". Click that button, and you'll see a URL that you can use to clone the repository to your machine. Copy that URL. 
 
-![Screenshot of clone button](cloneButton.PNG) 
+![Screenshot of clone button](vsCloneButton.PNG) 
 
 (Cloning creates a copy of the repository that's linked to the master version on GitHub; downloading retrieves copies of the files but doesn't link them to the original repository.) 
 
 Launch VS Code, and from the file menu, choose View --> Command Palette. 
 
-![Screenshot of VS Code Command Palette](commandPalette.png) 
+![Screenshot of VS Code Command Palette](vsCommandPalette.png) 
 
 Type in `git:clone`. You should see that command appear below the entry box; select it, and VS Code will prompt you for the URL that you just copied from GitHub. Paste that in and press Enter. 
 
-![Screenshot of VS Code Command Palette](commandPrompt.png) 
+![Screenshot of VS Code Command Palette](vsCommandPrompt.png) 
 
 VS Code will prompt you for a location for your files. Once you've selected a location, VS Code will create a directory for the repository files using the name of the repository, and will retrieve copies of any files in the repository (which right now should just be the README.md file). When it's done, it will ask if you want to open the new repository (either in the current window, or in a new window). 
 
@@ -75,7 +75,7 @@ To add the changed file to your repository you need to first stage it (to tell V
 
 To stage the file, put your cursor over its name, and click on the + next to it. The file will move from "Changes" to "Staged Changes". Add a commit message in the box at the top (e.g. 'Added new title to README'), and click on the checkmark to commit it to your repository. The changes have now been recorded. (Why the extra step of staging? Several reasons. Sometimes you might be editing a lot of files, but only a few are complete enough to be added to the repository. By staging them before you commit, you don't have to add the changed files to the repository until you're ready. Other times you may have updated a lot of files, and want different commit messages for specific groups of files.) 
 
-![Screenshot of VS Code Command Palette](exampleCommit.png) 
+![Screenshot of VS Code Command Palette](vsExampleCommit.png) 
 
 While Git is now tracking the changes to the file, the changes have only been made in your local copy of the repository. Since Git is a distributed source control system, you'll need to take another step to synchronize the changes in your copy of the repository changes to the copy on GitHub. 
 
@@ -89,7 +89,7 @@ Click on the commit message, and you'll be shown the changes that were made in t
 
 In VS Code, create a new file in the repository directory. It can be an HTML file, a Markdown (.md) file, or a text (.txt) file. Add whatever content you'd like, and then save it. 
 
-![Screenshot of VS Code Command Palette](exampleFile.png) 
+![Screenshot of VS Code Command Palette](vsExampleFile.png) 
 
 In the Git sidebar, the new file will appear with a U next to its name (for "untracked", because it hasn't yet been committed to the repository). Stage, commit, and sync this file, too.  Reload your repository in the browser to make sure the file is visible.
 
