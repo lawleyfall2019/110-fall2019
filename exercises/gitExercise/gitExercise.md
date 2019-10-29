@@ -39,7 +39,7 @@ Close the GitBash program.
 
 In the top right corner of your repository page, there's a green button that says "Clone or Download". Click that button, and you'll see a URL that you can use to clone the repository to your machine. Copy that URL. 
 
-![Screenshot of clone button](vsCloneButton.PNG) 
+![Screenshot of clone button](vsCloneButton.png) 
 
 (Cloning creates a copy of the repository that's linked to the master version on GitHub; downloading retrieves copies of the files but doesn't link them to the original repository.) 
 
