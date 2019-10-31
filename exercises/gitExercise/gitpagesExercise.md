@@ -50,6 +50,5 @@ On the GitHub site, go to the page for your new repository (github.com/*youruser
 
 Here's an example of what I'm asking for: http://mamamusings.github.io/igme110
 
-
 ## Deliverables
 Your project repository--with the two HTML files, two subdirectories, and two images--should be available at github.com/*yourusername*/igme110 no later than 9am on Friday morning. Once you've received a grade for this exercise, you can begin replacing the files with your web project files. 
