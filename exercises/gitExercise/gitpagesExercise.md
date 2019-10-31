@@ -27,10 +27,20 @@ You're going to create a new repository to hold your web project files.
 
 While you could just create a subdirectory in your personal site directory, a better approach is to create a separate repository for your work in this class, and using the personal directory you created above for your own non-class-related personal page(s). There are a number of advantages to creating a separate repository for each project you work on, including being able to make the repository private before you want it "go live", giving editing access to specific users, and cloning only the repository that you want to work on.  
 
-You're going to use the igme110 repository that you created in Tuesday's exercise for your web project. If you don't still have a clone of it on the computer you're using right now, use VS Code to set one up (using the instructions from Tuesday). Create an index.html file that at a minimum has the words "My 110 Web Project"; it's just a temporary file, which will be replaced by the files for your web project. 
+You're going to create a new directory for your web project, called igme110. Follow the steps from Tuesday's exercise to create the repository on GitHub, and clone it to your computer. 
 
-On the GitHub site, go to your igme110 repository page (github.com/*yourusername*/igme110), select “Settings” from the menu at the top of the page, and scroll down to the GitHub Pages settings. Choose master branch as your source, and save. (Do *not* try to install a "theme"; these do not use standard HTML, but instead use a templating language based on the Ruby programming language. If you want to explore using GitHub Jekyll themes, you should create a separate repository for that.) After you save your new settings, the files in your igme110 directory should be visible at *yourusername*.github.io/igme110; try clinking on the link provided in the settings page to test it.
+Create a subdirectory in your igme110 directory called "images", and another subdirectory called "about". 
+
+In the main igme110 directory, put an index.html file. In the "about" subdirectory create another index.html file. In the images directory put two images; one for each of the two HTML files. 
+
+Add a heading, some text, and one of the images to each of the index.html files, along with a link on each page to the other page. 
+
+Stage, commit, and sync your files. 
+
+On the GitHub site, go to the page for your new repository (github.com/*yourusername*/igme110), select “Settings” from the menu at the top of the page, and scroll down to the GitHub Pages settings. Choose master branch as your source, and save. (Do *not* try to install a "theme"; these do not use standard HTML, but instead use a templating language based on the Ruby programming language. If you want to explore using GitHub Jekyll themes, you should create a separate repository for that.) After you save your new settings, the files in your igme110 directory should be visible at *yourusername*.github.io/igme110; try clinking on the link provided in the settings page to test it.
+
+Here's an example of what I'm asking for: http://mamamusings.github.io/igme110
 
 
 ## Deliverables
-Your project repository, with an HTML file in it, should be available at github.com/*yourusername*/igme110 no later than 9am on Friday morning.  
+Your project repository--with the two HTML files, two subdirectories, and two images--should be available at github.com/*yourusername*/igme110 no later than 9am on Friday morning. Once you've received a grade for this exercise, you can begin replacing the files with your web project files. 
