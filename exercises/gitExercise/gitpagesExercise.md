@@ -29,9 +29,9 @@ While you could just create a subdirectory in your personal site directory, a be
 
 You're going to create a new directory for your web project, called igme110. Follow the steps from Tuesday's exercise to create the repository on GitHub, and clone it to your computer. 
 
-Create a subdirectory in your igme110 directory called "images", and another subdirectory called "about". 
+Create a subdirectory in your igme110 directory called "images", and another subdirectory called "more". 
 
-In the main igme110 directory, put an index.html file. In the "about" subdirectory create another index.html file. In the images directory put two images; one for each of the two HTML files. 
+In the main igme110 directory, put an index.html file. In the "more" subdirectory create another index.html file. In the images directory put two images; one for each of the two HTML files. 
 
 Add a heading, some text, and one of the images to each of the index.html files, along with a link on each page to the other page. 
 
