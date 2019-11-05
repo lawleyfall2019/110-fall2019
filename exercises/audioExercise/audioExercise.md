@@ -1,4 +1,4 @@
-[Back to IGME-110 Week 12](https://lawleyfall2018.github.io/110-fall2018/schedule.html#week12)
+[Back to IGME-110 Week 11](https://lawleyfall2019.github.io/110-fall2019/schedule.html#week12)
 
 # Digital Audio Exercise
 
@@ -32,7 +32,7 @@ Separate audio files for each slide:
 - Downloading Sample Ignites
   - Download and decompress the [archive of sample presentations](sample-ignites.zip).  
   - Each presentation has 6 slides: An intro/title slide, 4 presentation slides, and a credits slide at the end. 
-  - Choose the set of slides you want to work with.  You can choose from Chocolate, Dr. Who, Star Wars or Nintendo. Don't worry too much about the content of the narration--this is about process rather than content, so your content doesn't even have to be accurate! (Yes, if you absolutely must, you can change the slides and use a different topic. But remember the goal of this exercise is learning to use an audio editor to make voice-over narration for PowerPoint, so spending a lot of time on content production isn't necessary or wise.)
+  - Choose the set of slides you want to work with.  You can choose from Chocolate, Dr. Who, Star Wars or Nintendo. Don't worry too much about the content of the narration--this is about process rather than content, so your narration content doesn't have to be accurate! 
   - You will need to record narration for the title slide and the four content slides; you do not need to record narration for the credits slide (unless you want to).
 - Script Writing:  
   - Write a script to be read based on your notes so you'll know what to say.  Time yourself reading it to make sure your script fits the time constraints (15 seconds per slide). Trim as needed. Narration is hard to do extemporaneously - it is much easier to read from a script.
@@ -95,6 +95,10 @@ If you have multiple files, one for each slide, you'll attach the appropriate au
 - Even though the sound you added to a slide is not an animation, you will see two animations listed, the oval that moves across the slide as an elapsed time indicator and your mp3 sound file.  Select the mp3 file (it should be second since you added it later) and make sure Start is set to "With Previous." This makes sure that the sound plays at the same time as the animation (otherwise, it will play after the animation).
 - Note: That final step is only necessary because the transitions between slides are considered animations. If you do not include transitions or animations in your final project for the class, you will not need to worry about this step in your project narration.
 
-## Submitting your files
-Submit your finished .pptx file to the Week 12 Exercise: Ignite Soundtrack dropbox. If you choose to work on this on your own rather than coming to class on Thursday, the completed presentation, with working audio, must be submitted to the myCourses dropbox by the beginning of Thursday's class. If you come to class on Thursday, the exercise is due by 6pm on Saturday, November 17th.
+## Deliverable
+In PowerPoint, use "Save As" to save your narrated presentation as an MPEG-4 (*.mp4) file. (Make sure you play the resulting .mp4 file to be sure the audio is working properly before continuing!) 
+
+Log into YouTube and upload the .mp4 file to your account. Set the visibility to unlisted or public (not secret), so that we'll be able to grade it. ([YouTube video uploading instructions](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en))
+
+Post the URL for the video to this week's Assignment in myCourses by 8am on Sunday, November 10th.   
 
