@@ -100,5 +100,5 @@ In PowerPoint, use "Save As" to save your narrated presentation as an MPEG-4 (*.
 
 Log into YouTube and upload the .mp4 file to your account. Set the visibility to unlisted or public (not secret), so that we'll be able to grade it. ([YouTube video uploading instructions](https://support.google.com/youtube/answer/57407?co=GENIE.Platform%3DDesktop&hl=en))
 
-Post the URL for the video to this week's Assignment in myCourses by 8am on Sunday, November 10th.   
+You do not need to post the URL to the video yet; you'll do that after you finish part 2 of the exercise (captioning).   
 
