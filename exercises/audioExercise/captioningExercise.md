@@ -25,7 +25,7 @@ We're going to use YouTube's built-in tools to help with captioning of videos.
 
 
 ## Deliverable
-Once you're done, select "Info & Settings" from the links on the top of the screen. Make sure that your video is set to either Unlisted or Public--not Secret. Copy the Video URL shown on the right side of the screen, and post it to the appropriate myCourses Assignment.
+Once you're done, select "Info & Settings" from the links on the top of the screen. Make sure that your video is set to either Unlisted or Public--not Secret. Copy the Video URL shown on the right side of the screen, and post it to the week 11 myCourses Assignment.
 
-This should be completed by 8am on Sunday, November 9th. 
+This should be completed by noon on Sunday, November 10th. 
 
