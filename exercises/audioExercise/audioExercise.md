@@ -1,4 +1,4 @@
-[Back to IGME-110 Week 11](https://lawleyfall2019.github.io/110-fall2019/schedule.html#week12)
+[Back to IGME-110 Week 11](https://lawleyfall2019.github.io/110-fall2019/schedule.html#week11)
 
 # Digital Audio Exercise
 
@@ -7,6 +7,8 @@ This exercise introduces you to basic digital audio production. You will be usin
 You will need to produce an ~80 second soundtrack, in mp3 format, that can be added to a five-slide PowerPoint presentation--16 seconds of narration for each of 5 slides.  While the slides each display for only 15 seconds, there is a 1 second transition between each slide. 
 
 The soundtrack for your slides will consist primarily of a narration that syncs with the slides as they auto-advance.  If you want, you can add other sounds to the soundtrack, such as Foley art (sound effects), ambient sound, or background music.
+
+
 
 ## One Sound File or Many?
 
@@ -33,10 +35,12 @@ Separate audio files for each slide:
   - Download and decompress the [archive of sample presentations](sample-ignites.zip).  
   - Each presentation has 6 slides: An intro/title slide, 4 presentation slides, and a credits slide at the end. 
   - Choose the set of slides you want to work with.  You can choose from Chocolate, Dr. Who, Star Wars or Nintendo. Don't worry too much about the content of the narration--this is about process rather than content, so your narration content doesn't have to be accurate! 
+
+** Note: Please use PowerPoint and not Google Slides! You can download the Office Apps by going to https://portal.office.com/. On the Office 365 page, there's a link that says "Install Office." **
   - You will need to record narration for the title slide and the four content slides; you do not need to record narration for the credits slide (unless you want to).
 - Script Writing:  
   - Write a script to be read based on your notes so you'll know what to say.  Time yourself reading it to make sure your script fits the time constraints (15 seconds per slide). Trim as needed. Narration is hard to do extemporaneously - it is much easier to read from a script.
-- Preparing Background Sounds [optional]:
+- Preparing Background Sounds (optional):
   - Prepare any background sounds by downloading sound files you want to import into your narration.  If you want to create sounds with the Audacity generators, play around with them first.  Determine what parameter settings give you the sounds you want. A second track that is music which you can fade in and out as background can be nice.
 
 ## Setup PowerPoint and Audacity:
