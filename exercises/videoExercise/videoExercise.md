@@ -27,7 +27,7 @@ Use the HDTV preset (1280x720) at high quality. Upload your completed video file
 # Submitting Your Work
 Post the URL to your completed video to the myCourses dropbox. (The dropbox requires a file submission, because we messed up. :) Upload a text file with the URL, but add the URL in the description, too!)
 
-If you choose to work on this on your own rather than coming to class on Thursday, you must submit the URL by the beginning of Thursday's class. If you come to class on Thursday, you must submit the URL by noon on Sunday, November 24. 
+You have the option to work on this on your own rather than coming to class on Thursday. Regardless, you must submit the URL by noon on Sunday, November 24. 
 
 
 
