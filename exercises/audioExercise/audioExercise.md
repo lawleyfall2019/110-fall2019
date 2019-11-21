@@ -8,8 +8,6 @@ You will need to produce an ~80 second soundtrack, in mp3 format, that can be ad
 
 The soundtrack for your slides will consist primarily of a narration that syncs with the slides as they auto-advance.  If you want, you can add other sounds to the soundtrack, such as Foley art (sound effects), ambient sound, or background music.
 
-
-
 ## One Sound File or Many?
 
 There are two main approaches to producing the soundtrack for the first five slides: 

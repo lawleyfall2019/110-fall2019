@@ -20,14 +20,14 @@ Here are some sources for free, downloadable videos you can also use in your wor
 - [Pexels](https://videos.pexels.com/video-license)
 - [The Internet Archive](https://archive.org/details/movies)
 
-When you've completed your video editing, use "Export -> Render Video" to save the video using the H.264 codec. (I *strongly* suggest saving your work before you do this; on some of the lab computers, the rendering can cause memory errors that result in Photoshop freezing.)
+When you've completed your video editing, use "Export -> Render Video" to save the video using the H.264 codec. (I *strongly* suggest saving your work before you do this; on some of the lab computers, the rendering has caused memory errors that result in Photoshop freezing.)
 
 Use the HDTV preset (1280x720) at high quality. Upload your completed video file to YouTube. If you used copyrighted materials, or would prefer that the video not be visible to others, you can upload it as an "unlisted" video--**not** as a "private" video, because then we can't grade it. (Once you've received your grade for the assignment, you are welcome to delete the video if you'd like.)
 
 # Submitting Your Work
-Post the URL to your completed video to the myCourses dropbox. 
+Post the URL to your completed video to the myCourses dropbox. (The dropbox requires a file submission, because we messed up. :) Upload a text file with the URL, but add the URL in the description, too!)
 
-If you choose to work on this on your own rather than coming to class on Thursday, you must submit the URL by the beginning of Thursday's class. If you come to class on Thursday, you must submit the URL by noon on Sunday, December 2. 
+If you choose to work on this on your own rather than coming to class on Thursday, you must submit the URL by the beginning of Thursday's class. If you come to class on Thursday, you must submit the URL by noon on Sunday, November 24. 
 
 
 
