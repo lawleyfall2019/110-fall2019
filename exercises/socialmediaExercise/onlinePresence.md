@@ -9,8 +9,6 @@ If you already have a LinkedIn profile, great! If not, you will create one for t
 
 At a minimum, your profile should contain your name, your photo, your RIT affiliation, a summary (which should talk about the types of jobs you’re interested in getting) and any technical skills that you currently have. If you have relevant professional experience, you should add it here, as well. 
 
-When you’re finished, post a link to your profile in the [#linkedinprofiles](https://lawley-110-2017.slack.com/messages/C88SHC28Y) channel in Slack
-
 ## Part Two: How Much Does Google Know About You?
 
 Have you tried searching for any traces of yourself in Google? I want you to do that today. It's often not sufficient to just search for your name, because it's likely that you'll get a lot of "false hits." Here are some tips for how to narrow your search to find things specific to you:
@@ -24,4 +22,6 @@ Have you tried searching for any traces of yourself in Google? I want you to do 
 - Search for your name, username, and/or email address on social sites like Facebook, Reddit, etc (To search for a username on Reddit, use author:*username*)
 
 ## Deliverable
-Write a 2-3 paragraph summary of what you found when you searched for yourself. How much information about yourself were able to locate? More than you expected? Less? Was there anything you were surprised to find? Anything that you chose to remove (you don't have to be specific...)? Anything that you would like to make more accessible? Upload the document to the dropbox in myCourses. This should be submitted by noon on Saturday (December 8). 
+Write a 2-3 paragraph summary of what you found when you searched for yourself. How much information about yourself were able to locate? More than you expected? Less? Was there anything you were surprised to find? Anything that you chose to remove (you don't have to be specific...)? Anything that you would like to make more accessible? 
+
+Add your LinkedIn profile ID, and then upload the document to the dropbox in myCourses. This should be submitted by 3pm on Thursday. 
